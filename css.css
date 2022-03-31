@@ -1,0 +1,54 @@
+#map{
+    margin: 0 auto;
+    height: 500px;
+    width: 80%;
+}
+
+.title{
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    width: 220px;
+    margin-left: -100px;
+    z-index: 1000;
+    /* text-shadow: 1px 10px white; */
+    top: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    color:black;
+}
+
+.lastupdated{
+    background-color: white;
+    position: absolute;
+    left: 50%;
+    width: 220px;
+    margin-left: -100px;
+    z-index: 1000;
+    /* text-shadow: 1px 10px white; */
+    top: 450px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+    color:black;
+}
+
+.location{
+background-color: white;
+    position: absolute;
+    left: 50%;
+    width: 220px;
+    margin-left: -100px;
+    z-index: 1000;
+    /* text-shadow: 1px 2px white; */
+    top: 100px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bolder;
+    color:black;
+}
+
+body{
+    background-color: black;
+}
